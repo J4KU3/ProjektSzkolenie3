@@ -1,0 +1,13 @@
+body
+{
+    background-color: black;
+    color: #fff;
+}
+.table{
+    color: #fff;
+}
+.myCenter
+{
+    display: flex;
+    justify-content: center;
+}
